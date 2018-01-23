@@ -1,0 +1,17 @@
+w[op]
+*.py[co]
+.virtualenv/
+*.egg-info/
+
+dev.yml
+.idea
+src
+.vscode
+
+# eclipse
+.project
+.pydevproject
+.settings
+ENV3.5
+config.loc.yml
+
